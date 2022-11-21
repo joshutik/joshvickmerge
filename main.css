@@ -1,0 +1,8 @@
+/* h1{
+    text-align: center;
+} */
+.bg{
+    background-image: linear-gradient(rgba(160, 158, 158, 0.6),rgba(10, 9, 9, 0.326)), url(./images/clay-banks-u27Rrbs9Dwc-unsplash.jpg) !important;
+    background-size:cover ;
+    height: 100vh;
+}
